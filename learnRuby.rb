@@ -1,2 +1,12 @@
-my_num=25
-puts my_num
+#  puts and print
+
+puts "hallo"
+print "hi"
+# output: 
+# hallo
+# hi
+
+print "hallo"
+print "hi"
+# output:
+# hallohi
